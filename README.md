@@ -3,15 +3,15 @@
 <img align="right" width="400px" alt="coading" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amu757&label=Profile%20views&color=0e75b6&style=flat" alt="amu757" /> </p>
 
-- 🔭 I’m currently working on **HireHub**
+- 🔭 I’m currently working as Bussiness Analyst 
 
-- 🌱 I’m currently learning **web development | java | DSA**
+- 🌱 I’m have knowledge of **MERN STACK | java | DSA**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaboration on **Web Apps**
 
-- 🤝 I’m looking for help with **HireHub website**
+- 🤝 I’m looking for help with **MediNear**
 
-- ⚡ Fun fact **gum while studying or taking tests can actually improve focus and concentration?**
+- ⚡ Fun fact **chewing gum while studying or taking tests can actually improve focus and concentration?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
