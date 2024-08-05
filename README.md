@@ -3,13 +3,13 @@
 <img align="right" width="400px" alt="coading" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amu757&label=Profile%20views&color=0e75b6&style=flat" alt="amu757" /> </p>
 
-- 🔭 I’m currently working as Bussiness Analyst 
+- 🔭 I’m currently working as **Bussiness Analyst**
 
 - 🌱 I’m have knowledge of **MERN STACK | java | DSA**
 
 - 👯 I’m looking to collaboration on **Web Apps**
 
-- 🤝 I’m looking for help with **MediNear**
+- 🤝 I’m looking for help with **MediNear - Web application**
 
 - ⚡ Fun fact **chewing gum while studying or taking tests can actually improve focus and concentration?**
 
